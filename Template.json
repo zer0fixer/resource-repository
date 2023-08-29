@@ -1,0 +1,12 @@
+{   
+    "ID": {
+        "name": "Font Name",
+        "font_default": "submods/FontSwitcher/font/name.ttf",
+        "font_label": "submods/FontSwitcher/font/name.ttf",
+        "font_button": "submods/FontSwitcher/font/name.ttf",
+        "size_default": 0,
+        "size_button": 0,
+        "padding": 0,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    }
+}
