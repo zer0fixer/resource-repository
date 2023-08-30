@@ -4,9 +4,10 @@
         "font_default": "submods/FontSwitcher/font/name.ttf",
         "font_label": "submods/FontSwitcher/font/name.ttf",
         "font_button": "submods/FontSwitcher/font/name.ttf",
-        "size_default": 0,
-        "size_button": 0,
-        "padding": 0,
+        "size_default": 22,
+        "size_button": 22,
+        "quick_size": 14,
+        "padding": 1,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     }
 }
