@@ -6,7 +6,8 @@
         "font_button": "submods/FontSwitcher/font/name.ttf",
         "size_default": 22,
         "size_button": 22,
-        "quick_size": 14,
+        "size_quick": 14,
+        "size_label": 30,
         "padding": 1
     }
 }
